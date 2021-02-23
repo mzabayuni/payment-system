@@ -181,19 +181,20 @@ nav{
   
   .mobile-items {
     list-style: none;
-    font-size: 120%;
+    font-size: 90%;
     width: 100%;
     display: flex;
+    cursor: pointer;
     flex-direction: column;
     color: #dd552b;
     align-items: center;
     justify-content: space-between;
-    padding: 1rem 0;
+    padding: 10px 0;
     border-bottom: 1px solid #dd552b;
     z-index: 1500;
     transition: all 650ms ease-in-out;
     text-transform: uppercase;
-    row-gap: 3rem;
+    row-gap: 2rem;
   }
 
 
@@ -650,14 +651,15 @@ section{
    
     .card{
         margin: auto;
-        width: 70%;
+        width: 100%;
         margin-bottom: 30px;
     }
 
     .market-place-img{
-        text-align: center;
+        text-align: ;
         padding-bottom: 20px;
         padding-top: 30px;
+        width: 120%;
     }
 
 
@@ -667,6 +669,7 @@ section{
 
     .contact__input{
         width: 100%;
+       
     }
 
     .customer-icons{
@@ -692,7 +695,7 @@ section{
      }
 
      .welcome-image{
-         width: 60%;
+         width: 80%;
      }
 
      .nav-buttons{
