@@ -632,7 +632,7 @@ section{
 
     .text-button{
         margin-left: -40px;
-        padding: 5px 8px 5px 8px;
+        padding: 7px 8px 5px 8px;
     }
 
     .navigation,
@@ -660,6 +660,11 @@ section{
         padding-bottom: 20px;
         padding-top: 30px;
         width: 120%;
+    }
+
+    .customer-comments img{
+        height: auto;
+        width: 40px;
     }
 
 
@@ -732,26 +737,6 @@ section{
         margin-top: 2rem;
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-/* @media screen and (min-width: 568px){
-    .welcome-image{
-        width: 60%;
-    }
-
-    .header-1{
-        height: 90vh;
-    }
 }
 
 
@@ -759,35 +744,6 @@ section{
 
 
 
-   
-
-   
-
-  
-   
-
-   
-
-    
-}
 
 
 
-
-   
-    .header-1{
-        height: 75vh;
-    }
-} */
-
-
-/* @media screen and (min-width: 370px){
-    .welcome-image{
-        width: 50%;
-        margin: auto;
-    }
-    
-    .header-1{
-        height: auto;
-    } */
-} */
